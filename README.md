@@ -8,7 +8,7 @@ The Bookstore Inventory System is a Python-based command-line application for ma
 - PrettyTable
 - sqlite3
 
-### Setup:
+## Setup:
 1. Install Python 3 or higher.
 2. Install the following Python libraries:
     - pickle
@@ -16,13 +16,13 @@ The Bookstore Inventory System is a Python-based command-line application for ma
     - sqlite3
 3. Create a file named `inventory.pkl` to store the inventory data.
 
-# Requirements:
+## Requirements:
 - Python 3 or higher
 - pickle library
 - PrettyTable library
 - sqlite3 library
 
-# Output:
+## Output:
 The program displays a menu of options for managing the bookstore inventory. The user can choose from the following options:
 - Add a book to the inventory
 - View inventory
@@ -32,7 +32,7 @@ The program displays a menu of options for managing the bookstore inventory. The
 - Load inventory from file
 - Save inventory to file
 - Quit
-
+  
 ###### Output Comprises as below:
 
 ![Screenshot 2024-06-09 182519](https://github.com/BhargavaInnamuri/Bookstore_Inventory_System/assets/158266129/1f0ad0b9-1f5c-451e-a606-4ac23d26b1fe)
