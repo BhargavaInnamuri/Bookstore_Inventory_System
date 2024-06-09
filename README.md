@@ -8,7 +8,7 @@ The Bookstore Inventory System is a Python-based command-line application for ma
 - PrettyTable
 - sqlite3
 
-# Setup:
+### Setup:
 1. Install Python 3 or higher.
 2. Install the following Python libraries:
     - pickle
