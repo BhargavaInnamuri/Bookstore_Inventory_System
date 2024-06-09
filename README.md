@@ -1,9 +1,8 @@
 # Bookstore_Inventory_System
 This is the design & implementation of a bookstore inventory management system (using Python).
 The Bookstore Inventory System is a Python-based command-line application for managing a bookstore's inventory, customers, and orders. This system allows you to perform various tasks, including adding and updating books, managing customers, and tracking orders.
-# prompt: Provide me required description about above code ex: technology stack, setup, requirements, output
 
-# Technology Stack:
+## Technology Stack:
 - Python3.2
 - pickle
 - PrettyTable
